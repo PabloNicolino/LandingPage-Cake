@@ -1,8 +1,33 @@
-# 💻 Desafio recriando um Formulário 
+<h1 align="center"> LandingPage Cake </h1>
 
-A Rocketseat me desafiou a recriar esse formulário, sua aplicação é no Figma.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="LandingPage Cake" src="https://github.com/PabloNicolino/LandingPage-Cake/blob/main/assests/img-final.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML5 e CSS3
+- Git e Github
+- Figma
+
+## 💻 Projeto
 
 - [Acesse o projeto finalizado, online](https://pablonicolino.github.io/LandingPage-Cake/)
 
-- ![desafio](![image](https://github.com/PabloNicolino/LandingPage-Cake/assets/103440908/1d2ac080-d5ff-42d5-bab8-468259cfe3e6)
-)
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
